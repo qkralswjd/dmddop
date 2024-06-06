@@ -1,0 +1,340 @@
+Uri: http://tvsample.dothome.co.kr/
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\index-1.htm
+Content Type: text/html
+
+Uri: http://tvsample.dothome.co.kr/assets/img/ico_button.7f74e0bb.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\assets\img\ico_button.7f74e0bb-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/assets/img/ico_plus_190725.db16ecd0.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\assets\img\ico_plus_190725.db16ecd0-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/assets/img/image-20240424182944-1.gif
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\assets\img\image-20240424182944-1-1.gif
+Content Type: image/gif
+
+Uri: http://tvsample.dothome.co.kr/assets/img/sub_ka.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\assets\img\sub_ka-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/assets/main.d4d08af95152.css?ver=1.0
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\assets\main.d4d08af95152-1.css
+Content Type: text/css
+
+Uri: http://tvsample.dothome.co.kr/code.jquery.com/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\code.jquery.com\jquery-1.12.4.min-1.js
+Content Type: application/javascript
+
+Uri: http://tvsample.dothome.co.kr/gj.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\gj-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/img/logo.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\img\logo-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418205450-11.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418205450-11-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211054-5.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211054-5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211114-6.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211114-6-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211128-7.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211128-7-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211142-8.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211142-8-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211218-9.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211218-9-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418211237-10.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418211237-10-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418224218-2.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418224218-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418224830-3.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418224830-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418230609-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418230609-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/18/image-20240418234033-1.gif
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\18\image-20240418234033-1-1.gif
+Content Type: image/gif
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/20/image-20240420232949-2.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\20\image-20240420232949-2-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/20/image-20240420232954-3.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\20\image-20240420232954-3-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/20/image-20240420233001-4.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\20\image-20240420233001-4-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/22/image-20240422162823-1.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\22\image-20240422162823-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/24/image-20240424182012-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\24\image-20240424182012-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/24/image-20240424192704-1.gif
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\24\image-20240424192704-1-1.gif
+Content Type: image/gif
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/04/29/image-20240430033307-6.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\04\29\image-20240430033307-6-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/02/image-20240502141307-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\02\image-20240502141307-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/02/image-20240502141333-2.gif
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\02\image-20240502141333-2-1.gif
+Content Type: image/gif
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/03/image-20240503101726-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\03\image-20240503101726-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/03/image-20240503101810-2.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\03\image-20240503101810-2-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/03/image-20240503101828-3.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\03\image-20240503101828-3-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/03/image-20240503101844-4.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\03\image-20240503101844-4-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/07/image-20240507162015-1.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\07\image-20240507162015-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/07/image-20240507164018-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\07\image-20240507164018-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/07/image-20240507164028-2.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\07\image-20240507164028-2-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/07/image-20240507164100-3.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\07\image-20240507164100-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/media/uploads/2024/05/07/image-20240508164042-1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\media\uploads\2024\05\07\image-20240508164042-1-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/1231.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1231-1.png
+Content Type: image/png
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/1232.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1232-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/1233.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1233-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/1257.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1257-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/27.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\27-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/3-1.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\3-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/3-2.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\3-2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/32.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\32-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/sj1.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\sj1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/sj2.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\sj2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/sj3.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\sj3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/sj4.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\sj4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/sj5.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\sj5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tvsample.dothome.co.kr/static/kakao/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\thumbnail-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1234.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1234-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1235.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1235-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1236.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1236-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1237.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1237-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1238.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1238-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1239.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1239-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1240.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1240-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1241.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1241-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1242.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1242-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1243.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1243-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1244.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1244-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/1245.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1245-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1246.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1246-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1247.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1247-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1248.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1248-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1249.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1249-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1251.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1251-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1252.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1252-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1253.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1253-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1254.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1254-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1255.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1255-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/1256.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\1256-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/49.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\49-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/9181.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\9181-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/bds.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\bds-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/benz.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\benz-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/godd.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\godd-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/joa.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\joa-1.png
+Content Type: image/png
+
+Uri: http://upbit7777.com/static/kakao/mm.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\mm-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/pnp.jpg
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\pnp-1.jpg
+Content Type: image/jpeg
+
+Uri: http://upbit7777.com/static/kakao/profile1.png
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\static\kakao\profile1-1.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\ajax\libs\jquery\3.5.1\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-M60W8W93KD
+File Name: C:\Downloaded Web Sites\tvsample.dothome.co.kr\gtag\js-1
+Content Type: application/javascript
+
